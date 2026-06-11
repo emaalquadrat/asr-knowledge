@@ -8,6 +8,8 @@ Aquí trobareu les idees, processos i recursos del col·lectiu, connectats entre
 
 Podeu navegar fent clic als enllaços o explorant el **graf de connexions** a la part inferior de cada pàgina.
 
+> Voleu afegir o editar contingut? Llegiu [[Com contribuir]].
+
 ## Explorar per temes
 
 - [[Pràctiques sostenibles]]
