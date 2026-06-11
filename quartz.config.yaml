@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: ca-ES
-  baseUrl: el-vostre-usuari.github.io/asr-knowledge
+  baseUrl: emaalquadrat.github.io/asr-knowledge
   ignorePatterns:
     - private
     - templates
