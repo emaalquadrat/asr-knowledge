@@ -1,0 +1,1 @@
+Tant facilitar informació, llocs on aconseguir els materials com bases de normativa per facilitar-ne la implementació en edificis públics i privats.
